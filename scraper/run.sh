@@ -1,5 +1,5 @@
 source .env
 
-echo "token = $GITTER_USER_TOKEN"
+# echo "token = $GITTER_USER_TOKEN"
 
-python scrape.py
+python3 scrape.py
