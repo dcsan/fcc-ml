@@ -1,4 +1,6 @@
 # coding: utf-8
+# 
+# needs python 3.4
 
 import os
 my_APIkey = os.environ.get('GITTER_USER_TOKEN')
